@@ -10,6 +10,9 @@ body a{
 	-moz-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
+a:hover{
+    text-decoration:none;
+}
  ul{
 	padding: 0;
 	margin: 0;
@@ -38,7 +41,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	-o-background-size:cover;
 	-moz-background-size:cover;
 	-ms-background-size:cover;
-	min-height:750px;
+	min-height:450px;
 }
 .header-top{
 	min-height:250px;
@@ -160,6 +163,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 /*--//content-top--*/
 .content-middle{
+    margin-top: 30px;
 	text-align: center;
 }
 .content-mid h3{
@@ -197,7 +201,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 /*----*/
 .services-top h2{
-	    font-size: 3em;
+	   
     color: #000000;
     margin: 0em 0 0em;
     text-align: center;
@@ -274,7 +278,7 @@ h1,h2,h3,h4,h5,h6,label,p{
       padding-top: 3px;
 }
 .gallery-top h3{
-	    font-size: 3em;
+	
     color: #000000;
     margin: 0em 0 0em;
     text-align: center;
@@ -299,7 +303,7 @@ h1,h2,h3,h4,h5,h6,label,p{
     padding: 5em 0;
 }
 .features-top h3{
-	    font-size: 3em;
+	   
     color: #000000;
     margin: 0em 0 0em;
     text-align: center;
@@ -354,6 +358,9 @@ h1,h2,h3,h4,h5,h6,label,p{
     margin-right: 8px;
 }
 /*--team--*/
+.team{
+    margin-top: 70px;
+}
 .ch-grid {
 	margin: 20px 0 0 0;
 	padding: 0;
@@ -381,6 +388,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	width: 100%;
 	height: 100%;
 	position: relative;
+    background-size: 100%;
 	box-shadow: 
 		inset 0 0 0 0 rgb(125, 115, 118), inset 0 0 0 16px rgba(86, 86, 86, 0.6), 0 1px 2px rgba(0,0,0,0.1);	
 	-webkit-transition: all 0.4s ease-in-out;
@@ -390,16 +398,16 @@ h1,h2,h3,h4,h5,h6,label,p{
 	transition: all 0.4s ease-in-out;
 }
 .ch-img-1 { 
-	background-image: url(../images/te.jpg);
+	background-image: url(../images/td1.jpg);
 }
 .ch-img-2 { 
-	background-image: url(../images/te1.jpg);
+	background-image: url(../images/td2.jpg);
 }
 .ch-img-3 { 
-	background-image: url(../images/te2.jpg);
+	background-image: url(../images/td3.jpg);
 }
 .ch-img-4 { 
-	background-image: url(../images/te3.jpg);
+	background-image: url(../images/td4.jpg);
 }
 .ch-info {
 	position: absolute;
@@ -470,7 +478,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 
 .team-top h3 {
-	font-size: 3em;
+	
     color: #000000;
     margin: 0em 0 0em;
     text-align: center;
@@ -489,7 +497,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 /*--contact--*/
 .contact-top h3{
-	font-size: 3em;
+	
     color: #000000;
     margin: 0em 0 0em;
     text-align: center;
