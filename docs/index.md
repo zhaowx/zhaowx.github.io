@@ -15,7 +15,6 @@ hide:
   }
 </style>
 
-![Dune Docs cover](images/dune-docs-cover.jpg)
 
 Dune is a powerful tool for blockchain research, complete with all the tools you need to discover, explore, and visualize vast amounts of blockchain data.
 
