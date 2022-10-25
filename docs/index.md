@@ -26,10 +26,6 @@ Dune is a powerful tool for blockchain research, complete with all the tools you
 - [Which Dex has the highest volume?](https://dune.com/queries/1847)
 - [How are important Stablecoins behaving today?](https://dune.com/hagaetc/stablecoins)
 
-## The ⚡ Quick 5-minute Dune overview
-
-![type:video](https://www.youtube.com/embed/S-cctFmR828)
-
 ## How Dune works
 
 First and foremost, Dune is a data platform that ingests difficult-to-access blockchain data and makes it accessible via a SQL database.
@@ -90,11 +86,6 @@ Data presented in table form (rows and columns) can be difficult to read. [Visua
 
 With Dune Visualizations, it's easy to begin to tell a story with your data by transforming something like this:
 
-![Table chart](images/table-chart.png)
-
-Into something like this:
-
-![Bar chart](images/bar-chart.png)
 
 The Bar Chart Visualization makes it clear that April 19th had the highest transfer volume to help you and others see the trend over time.
 
@@ -116,7 +107,6 @@ For example, in the below Dashboard, [Dex Metrics](https://dune.com/hagaetc/dex-
 
 Just by looking at this single Dashboard, anyone can get a clear picture of the entire DEX market.
 
-![Dashboard](images/dashboard.png)
 
 ## Dune is a community effort
 
