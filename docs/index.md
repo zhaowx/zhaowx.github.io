@@ -16,7 +16,7 @@ hide:
 </style>
 
 
-Dune is a powerful tool for blockchain research, complete with all the tools you need to discover, explore, and visualize vast amounts of blockchain data.
+Dune z is a powerful tool for blockchain research, complete with all the tools you need to discover, explore, and visualize vast amounts of blockchain data.
 
 
  Dune is your key to answering questions like:
